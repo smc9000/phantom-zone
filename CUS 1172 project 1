@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<h1>Project 1</h1>
+	</head>
+  
+	<body>
+<div>		
+<span><h2>Basic Profile Info</h2></span>
+    <img src="https://i.ytimg.com/vi/JOn42lglQTI/maxresdefault.jpg"/>        		
+			<p>Name: Stuart McIntosh </br>
+			 Major: Computer Science</p>
+<form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
+</form>
+            </div>
+	        	<div>
+<p>About Section: My goal is to become a a Software Engineer. I want to create video games.
+            I would also like to work in the robotics and artificial intelliegence field.
+            </p>
+</div>
+            <ul>
+            <li>Education: St. John's University - Bachelor's Degree in Progress</li>
+            <li>Hometown: Brooklyn, NY</li>
+            <li>Favorite Muscial Video: WTF Collective</li>
+            </ul>
+ <span> <h2>Favorite Websites</h2> </span>
+          <ol>
+          <li><a href="https://www.youtube.com">youtube.com</a></li>
+	  <li><a href="https://www.gamespot.com">gamespot.com</a></li>
+	  <li><a href="https://www.ign.com">ign.com</a></li>
+	  </ol>
+<div>
+<table style="width:25%">
+  <tr>
+    <th>Programming Skills</th>
+    <th>Interests</th>
+    <th>Work Experience</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Video Games</td>
+    <td>Pizza Chef</td>
+  </tr>
+  <tr>
+    <td>Basic C++</td>
+    <td>Lifting Weights</td>
+    <td>Personal Trainer</td>
+  </tr>
+</table>
+</div>
+<a name="Project"></a>
+
+
+Click <a href="#Project">here</a> to go to the top of the page!
