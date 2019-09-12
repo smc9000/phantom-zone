@@ -21,7 +21,7 @@
 </form>
             </div>
 	        	<div>
-<a name="About"><h3><p>About Section:</h3> My goal is to become a a Software Engineer. I want to create video games.</a>
+<a name="About Section"><h3><p>About Section</a>:</h3> My goal is to become a a Software Engineer. I want to create video games.
             I would also like to work in the robotics and artificial intelliegence field.
             </p>
 </div>
@@ -60,14 +60,10 @@
 <br>
 <h3>Menu Section</h3>
 Click <a href="#Project">here</a> to see my name and picture!  </br>
-Click <a href="#About">here</a> to see my basic info, including education, hometown, and favorite music video!</br>
+Click <a href="#About Section">here</a> to see my basic info, including education, hometown, and favorite music video!</br>
 
 
-
-
-
-
-
+</body>
 
 
 
