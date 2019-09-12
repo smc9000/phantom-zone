@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<h1>Project 1</h1>
+		<a name="Project"><h1>Project 1</h1></a>
 	</head>
   
 	<body>
@@ -13,12 +13,15 @@
 <form>
   First name:<br>
   <input type="text" name="firstname"><br>
+  Middle name:<br>
+  <input type="text" name="middlename"><br>
   Last name:<br>
   <input type="text" name="lastname">
+  
 </form>
             </div>
 	        	<div>
-<p>About Section: My goal is to become a a Software Engineer. I want to create video games.
+<a name="About"><h3><p>About Section:</h3> My goal is to become a a Software Engineer. I want to create video games.</a>
             I would also like to work in the robotics and artificial intelliegence field.
             </p>
 </div>
@@ -27,7 +30,7 @@
             <li>Hometown: Brooklyn, NY</li>
             <li>Favorite Muscial Video: WTF Collective</li>
             </ul>
- <span> <h2>Favorite Websites</h2> </span>
+ <span> <a name="Favorite"><h2>Favorite Websites</h2> </a></span>
           <ol>
           <li><a href="https://www.youtube.com">youtube.com</a></li>
 	  <li><a href="https://www.gamespot.com">gamespot.com</a></li>
@@ -52,7 +55,20 @@
   </tr>
 </table>
 </div>
-<a name="Project"></a>
+
+</br>
+<br>
+<h3>Menu Section</h3>
+Click <a href="#Project">here</a> to see my name and picture!  </br>
+Click <a href="#About">here</a> to see my basic info, including education, hometown, and favorite music video!</br>
 
 
-Click <a href="#Project">here</a> to go to the top of the page!
+
+
+
+
+
+
+
+
+
